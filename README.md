@@ -8,4 +8,4 @@ doubling as a digital pet that keeps you company.
 The languages I program with include Java, JavaFX, C, C++, and Python.
 Some tools I use include Git, IntelliJ, Linux, Windows, SceneBuilder, and Rufus.
 
-For professional inquiry, you can contact me at gioadeleon@gmail.com, I check it daily!
+For professional inquiries, you can contact me at gioadeleon@gmail.com, I check it daily!
