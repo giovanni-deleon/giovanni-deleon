@@ -1,5 +1,11 @@
 ### Hey there 👋
 
-I'm Giovanni from Texas, currently pursing a degree in Computer Science. I've been in the coding game for about 5 years and love what I do.
+I'm Giovanni De Leon, a software engineer.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanni-deleon)](https://github.com/anuraghazra/github-readme-stats)
+My team and I are currently working on an desktop app that works as a To-Do list while
+doubling as a digital pet that keeps you company.
+
+The languages I program with include Java, JavaFX, C, C++, and Python.
+Some tools I use include Git, IntelliJ, Linux, Windows, SceneBuilder, and Rufus.
+
+For professional inquiry, you can contact me at gioadeleon@gmail.com, I check it daily!
