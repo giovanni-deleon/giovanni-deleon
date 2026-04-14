@@ -2,7 +2,7 @@
 
 I'm Giovanni De Leon, a software engineer based in San Antonio, Texas.
 
-My team and I are currently working on an desktop app that works as a To-Do list while
+My team and I are currently working on a desktop app that works as a To-Do list while
 doubling as a digital pet that keeps you company.
 
 The languages I program with include Java, JavaFX, C, C++, and Python.
