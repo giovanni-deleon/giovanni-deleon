@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-:test_tube: I'm Giovanni De Leon, a software engineer based in San Antonio, Texas.
+:test_tube: I'm a software engineer based in San Antonio, Texas.
 
 :floppy_disk: My team and I are currently working on a desktop app that works as a To-Do list while
 doubling as a digital pet that keeps you company.
